@@ -6,9 +6,11 @@ permalink: pretty
 env: "production"
 logo: /assets/img/logos/sunlight-logo-dark.png
 tag_dir: tags
-github_repo: https://github.com/carlvlewis/informed-communities/blob/master
+github_repo: https://github.com/carlvlewis/informed-communities
 
 related_posts: 3
+
+repository: carlvlewis/informed-communities
 
 google_analytics: 'UA-48789618-12'
 
