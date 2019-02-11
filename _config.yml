@@ -6,7 +6,7 @@ permalink: pretty
 env: "production"
 logo: /assets/img/logos/sunlight-logo-dark.png
 tag_dir: tags
-github_repo: https://github.com/sunlightpolicy/informed-communities/blob/master
+github_repo: https://github.com/carlvlewis/informed-communities/blob/master
 
 related_posts: 3
 
